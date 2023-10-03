@@ -2,7 +2,7 @@
 
 <h3 align="center"> About Me</h3>
 
-> I am DARSHAN SOJITRA 
+> Hello! I am an aspiring Python developer with a strong passion for coding and problem-solving. While I may not have prior professional experience in the field, I am highly motivated and committed to building a successful career as a Python developer.
 > ----
 ### Contact Details
 
