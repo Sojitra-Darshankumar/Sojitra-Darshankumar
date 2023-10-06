@@ -13,6 +13,7 @@
 ----
 ### Skills
 
+ - C / C++
  - HTML / CSS
  - Bootstrap
  - JavaScript
