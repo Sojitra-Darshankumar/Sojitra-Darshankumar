@@ -1,4 +1,4 @@
-<h1 align="center" > <a href="https://sojitra-darshankumar.github.io/My_Portfolio.github.io"> DARSHAN SOJITRA  </a>  </h1><h4 align="right">PYTHON  DEVELOPER</h4>
+<h1 align="center" > <a href="https://sojitra-darshankumar.github.io/My_Portfolio.github.io"> DARSHAN SOJITRA </a>  </h1><h4 align="right">PYTHON  DEVELOPER</h4>
 
 <h3 align="center"> About Me</h3>
 
