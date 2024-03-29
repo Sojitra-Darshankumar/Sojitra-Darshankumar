@@ -36,10 +36,10 @@ Veer Narmad South Gujarat University Surat,Gujarat</p>
 ###  Project Work
 
 > #### Yom <sub><sup style="font-size:5px;">Based on Blog and Work</sup></sub>
->> <a herf="https://ds94.pythonanywhere.com" target="_blank" >https://ds94.pythonanywhere.com</a>
+>> <a herf="#" target="_blank" >https://ds94.pythonanywhere.com</a>
 
 > #### Feane Shop <sub><sup style="font-size:5px;">Based on Food Webste</sup></sub>
->> <a herf="https://feaneshop.pythonanywhere.com" target="_blank" >https://feaneshop.pythonanywhere.com</a>
+>> <a herf="#" target="_blank" >https://feaneshop.pythonanywhere.com</a>
 
 ----
 
