@@ -7,7 +7,6 @@
 ### Contact Details
 
 > Email : sojitradarshankumar94@gmail.com 
-> <br>Mobile : 93289 24399
 > <br>Country : India
 > <br>[Drop WhatsApp MSG!](https://wa.me/9328924366?text=)
 ----
